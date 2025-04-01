@@ -1,0 +1,1 @@
+npx ts-node src/index.ts https://github.com/nodejs/node --contributors

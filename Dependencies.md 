@@ -1,0 +1,16 @@
+You’ll need a few libraries for this project:
+
+axios: To make API requests to GitHub.
+
+commander: For building the CLI interface.
+
+chalk: For colorful output.
+
+@types/node, @types/commander, @types/axios: TypeScript typings.
+
+
+use these for the above:
+npm install axios commander chalk
+npm install --save-dev typescript @types/node @types/commander @types/axios ts-node
+
+
